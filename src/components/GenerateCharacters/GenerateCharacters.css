@@ -1,0 +1,37 @@
+.character-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.characters-button {
+    display: flex;
+    align-items: center;
+}
+
+.button-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.button-generate {
+    background-color: #2F4368;
+    color: #FAF76B;
+    margin: 10px;
+    padding: 3px;
+    border-radius: 5px;
+    width: 15rem;
+    height: 3rem;
+    font-size: 1em;
+    font-weight: 100;
+    border: 3px solid #FAF76B ;
+}
+
+.character__item {
+    margin: 5px;
+}
+
+.character__item img {
+    border-radius: 5%;
+}

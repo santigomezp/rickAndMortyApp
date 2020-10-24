@@ -1,0 +1,10 @@
+.header {
+    display: flex;
+    width: 100%;
+    height: 50vh;
+    justify-content: center;
+    background-image: url('../../Assets/Images/header-image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #2F4368;
+}
